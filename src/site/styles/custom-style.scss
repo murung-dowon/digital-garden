@@ -71,8 +71,8 @@ body.theme-dark {
     text-decoration: none;
 
     svg {
-      width: 18px;
-      height: 18px;
+      width: 20px;
+      height: 20px;
     }
 
     &:hover {
@@ -83,6 +83,19 @@ body.theme-dark {
       svg {
         stroke: white;
       }
+    }
+  }
+
+  // 테마 토글 버튼은 더 크게
+  #theme-toggle svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  // 모바일: 테마 토글만 표시
+  @media (max-width: 768px) {
+    a {
+      display: none;
     }
   }
 }
