@@ -49,11 +49,11 @@ const sortTree = (unsorted) => {
       const b_is_note = b.indexOf(".md") > -1;
 
       if (a_is_note && !b_is_note) {
-        return 1;
+        return -1;
       }
 
       if (!a_is_note && b_is_note) {
-        return -1;
+        return 1;
       }
 
       return naturalCompare(a, b);
