@@ -7,5 +7,5 @@ This is a test.
 
 ## Test Heading2
 
-[[Test/showcase\|showcase]]
-[[Test/dataview\|dataview]]
+[[showcase\|showcase]]
+[[dataview\|dataview]]
