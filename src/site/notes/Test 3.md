@@ -1,7 +1,8 @@
----
-{"dg-publish":true,"permalink":"/test-3/"}
----
-
-test
-
-[[Guides/Test 2\|Test 2]]
+```dataview
+[쿼리 타입] [필드, ...]
+FROM [소스]
+WHERE [조건]
+SORT [필드] [ASC/DESC]
+LIMIT [숫자]
+GROUP BY [필드]
+```
