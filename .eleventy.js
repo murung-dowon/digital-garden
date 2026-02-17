@@ -399,6 +399,33 @@ module.exports = function(eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
+  // Transform extended checkbox syntax (e.g. [>], [!], [*], etc.) into data attributes for CSS styling
+  eleventyConfig.addTransform("extended-checkboxes", function(str) {
+    if (!isMarkdownPage(this.page.inputPath)) {
+      return str;
+    }
+    const parsed = parse(str);
+    const listItems = parsed.querySelectorAll("li");
+    for (const item of listItems) {
+      const text = item.innerHTML;
+      // Match patterns like [>], [<], [?], [!], [*], ["], [l], [b], etc. at start of text
+      // Also handle HTML entities &gt; and &lt;
+      const match = text.match(/^\s*\[([\/><!?\*\"lbiSIpckfwud])\]\s*/) ||
+                    text.match(/^\s*\[(&gt;)\]\s*/) ||
+                    text.match(/^\s*\[(&lt;)\]\s*/);
+      if (match) {
+        let checkboxChar = match[1];
+        // Convert HTML entities back
+        if (checkboxChar === "&gt;") checkboxChar = ">";
+        if (checkboxChar === "&lt;") checkboxChar = "<";
+        item.setAttribute("data-task", checkboxChar);
+        item.classList.add("task-list-item");
+        item.innerHTML = text.replace(/^\s*\[(?:[\/><!?\*\"lbiSIpckfwud]|&gt;|&lt;)\]\s*/, "");
+      }
+    }
+    return str && parsed.innerHTML;
+  });
+
   // Shared helper to transform callout blockquotes - used by both callout-block transform and canvas-markdown
   const calloutMeta = /\[!([\w-]*)\|?(\s?.*)\](\+|\-){0,1}(\s?.*)/;
   function transformCalloutBlockquotes(blockquotes) {
