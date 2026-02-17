@@ -7,5 +7,8 @@ This is a test.
 
 ## Test Heading2
 
+> [!info] Info
+> 정보성 내용을 전달할 때 사용합니다.
+
 [[Guides/showcase\|showcase]]
 [[Guides/dataview\|dataview]]
