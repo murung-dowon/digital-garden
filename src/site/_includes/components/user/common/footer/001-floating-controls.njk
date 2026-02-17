@@ -1,0 +1,39 @@
+<div class="floating-controls">
+  <button id="theme-toggle" title="Toggle theme">
+    <i data-lucide="sun" class="theme-icon-light"></i>
+    <i data-lucide="moon" class="theme-icon-dark"></i>
+  </button>
+  <a href="https://github.com/murung-dowon" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <i data-lucide="github"></i>
+  </a>
+  <a href="https://linkedin.com/in/murung-dowon" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <i data-lucide="linkedin"></i>
+  </a>
+  <a href="mailto:contact.murung@gmail.com" title="Email">
+    <i data-lucide="mail"></i>
+  </a>
+</div>
+<script>
+  (function() {
+    // 저장된 테마 적용 (FOUC 최소화)
+    var saved = localStorage.getItem('dg-theme');
+    if (saved) {
+      document.body.classList.remove('theme-light', 'theme-dark');
+      document.body.classList.add('theme-' + saved);
+    }
+
+    // 토글 버튼 이벤트
+    var toggle = document.getElementById('theme-toggle');
+    if (!toggle) return;
+
+    toggle.addEventListener('click', function() {
+      var body = document.body;
+      var isLight = body.classList.contains('theme-light');
+      var newTheme = isLight ? 'dark' : 'light';
+
+      body.classList.remove('theme-light', 'theme-dark');
+      body.classList.add('theme-' + newTheme);
+      localStorage.setItem('dg-theme', newTheme);
+    });
+  })();
+</script>

@@ -1,0 +1,8 @@
+<script>
+  (function() {
+    var saved = localStorage.getItem('dg-theme');
+    if (saved) {
+      document.documentElement.setAttribute('data-saved-theme', saved);
+    }
+  })();
+</script>
