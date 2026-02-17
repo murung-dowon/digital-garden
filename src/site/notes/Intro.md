@@ -10,5 +10,5 @@ This is a test.
 > [!info] Info
 > 정보성 내용을 전달할 때 사용합니다.
 
-[[showcase\|showcase]]
-[[dataview\|dataview]]
+[[Test\|Test]]
+[[Guides/Test 1\|Test 1]]
