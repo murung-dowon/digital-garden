@@ -49,11 +49,11 @@ const sortTree = (unsorted) => {
       const b_is_note = b.indexOf(".md") > -1;
 
       if (a_is_note && !b_is_note) {
-        return -1;
+        return 1;
       }
 
       if (!a_is_note && b_is_note) {
-        return 1;
+        return -1;
       }
 
       return naturalCompare(a, b);
@@ -105,9 +105,13 @@ function getPermalinkMeta(note, key) {
     if (note.data["dg-path"]) {
       folders = note.data["dg-path"].split("/");
     } else {
-      folders = note.filePathStem
-        .split("notes/")[1]
-        .split("/");
+      // Ensure we extract everything after the LAST "notes/" occurrence
+      const parts = note.filePathStem.split("/notes/");
+      if (parts.length > 1) {
+        folders = parts.slice(-1)[0].split("/"); // Take the last part after "notes/"
+      } else {
+        folders = []; // Handle unexpected cases gracefully
+      }
     }
     folders[folders.length - 1]+= ".md";
   } catch {
