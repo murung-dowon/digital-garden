@@ -17,13 +17,6 @@ module.exports = {
       }
       return data.permalink || undefined;
     },
-    contentClasses: (data) => {
-      const classes = data.cssclasses || data.cssclass || [];
-      if (Array.isArray(classes)) {
-        return classes.join(" ");
-      }
-      return classes || "";
-    },
     settings: (data) => {
       const noteSettings = {};
       allSettings.forEach((setting) => {
