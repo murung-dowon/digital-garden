@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pmp/pmp/","tags":["PMP"],"updated":"2026-02-28T15:15:24.472+09:00"}
+{"dg-publish":true,"permalink":"/pmp/pmp/","tags":["PMP"],"updated":"2026-03-02T13:45:51.096+09:00"}
 ---
 
 ## 시험 구성: 3대 영역
