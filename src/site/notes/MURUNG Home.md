@@ -5,4 +5,4 @@
 Home
 
 
-### [[PMP/PMP 시험 가이드라인\|PMP 시험 가이드라인]]
+### [[PMP/PMP Notes/PMP 시험 가이드라인\|PMP 시험 가이드라인]]
