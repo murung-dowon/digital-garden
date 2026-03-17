@@ -5,4 +5,4 @@
 Home
 
 
-### [[PMP Notes/PMP 시험 가이드라인\|PMP 시험 가이드라인]]
+### [[Project Management Profession/PMP 시험 가이드라인\|PMP 시험 가이드라인]]
