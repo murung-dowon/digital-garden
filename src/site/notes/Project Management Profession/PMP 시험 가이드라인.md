@@ -13,8 +13,8 @@
 - **출제 방식:** 예측형(폭포수) 50% + 애자일/하이브리드 50%
 
 ## 전체 내용 구성
-### [[Project Management Profession/1. 가치 인도 시스템 - Value Delivery System\|1. 가치 인도 시스템 - Value Delivery System]]
-### [[Project Management Profession/2. 12가지 프로젝트 관리 원칙 - 12 Principles of Project Management\|2. 12가지 프로젝트 관리 원칙 - 12 Principles of Project Management]]
+### [[Project Management Profession/1 - Value Delivery System/1. 가치 인도 시스템 - Value Delivery System\|1. 가치 인도 시스템 - Value Delivery System]]
+### [[Project Management Profession/2 - 12 Principles of Project Management/2. 12가지 프로젝트 관리 원칙 - 12 Principles of Project Management\|2. 12가지 프로젝트 관리 원칙 - 12 Principles of Project Management]]
 ### [[0. Inbox/3. 8가지 프로젝트 성과 도메인 - 8 Project Performance Domains\|3. 8가지 프로젝트 성과 도메인 - 8 Project Performance Domains]]
 ### [[0. Inbox/4. 생애주기 및 개발 접근방식 - Lifecycle and Development Approach\|4. 생애주기 및 개발 접근방식 - Lifecycle and Development Approach]]
 ### [[0. Inbox/5. 시험 내용 개요 - Examination Content Outline\|5. 시험 내용 개요 - Examination Content Outline]]
