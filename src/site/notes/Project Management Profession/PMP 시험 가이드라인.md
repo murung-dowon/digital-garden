@@ -15,9 +15,9 @@
 ## 전체 내용 구성
 ### [[Project Management Profession/1 - Value Delivery System/1. 가치 인도 시스템 - Value Delivery System\|1. 가치 인도 시스템 - Value Delivery System]]
 ### [[Project Management Profession/2 - 12 Principles of Project Management/2. 12가지 프로젝트 관리 원칙 - 12 Principles of Project Management\|2. 12가지 프로젝트 관리 원칙 - 12 Principles of Project Management]]
-### [[0. Inbox/3. 8가지 프로젝트 성과 도메인 - 8 Project Performance Domains\|3. 8가지 프로젝트 성과 도메인 - 8 Project Performance Domains]]
-### [[0. Inbox/4. 생애주기 및 개발 접근방식 - Lifecycle and Development Approach\|4. 생애주기 및 개발 접근방식 - Lifecycle and Development Approach]]
-### [[0. Inbox/5. 시험 내용 개요 - Examination Content Outline\|5. 시험 내용 개요 - Examination Content Outline]]
-### [[0. Inbox/6. 모델 기법 및 산출물 - Models Methods and Artifacts\|6. 모델 기법 및 산출물 - Models Methods and Artifacts]]
+### [[Project Management Profession/3 - 8 Project Performance Domains/3. 8가지 프로젝트 성과 도메인 - 8 Project Performance Domains\|3. 8가지 프로젝트 성과 도메인 - 8 Project Performance Domains]]
+### [[0. Inbox/4. 테일러링 - Tailoring\|4. 테일러링 - Tailoring]]
+### [[0. Inbox/6. 시험 전략 - Examination Content Outline\|6. 시험 전략 - Examination Content Outline]]
+### [[0. Inbox/5. 모델 기법 및 산출물 - Models Methods and Artifacts\|5. 모델 기법 및 산출물 - Models Methods and Artifacts]]
 
 
