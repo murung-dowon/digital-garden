@@ -10,6 +10,28 @@
 
 ---
 
+## 2026-04-15
+
+### ✅ 3-5. 계획.md — Project Scope Statement 상세 추가
+- **계기:** Set A (Define Scope output이 뭔지 + Milestone과 차이)
+- **추가 내용:** 3-2-0 섹션 신설, Scope Statement 6가지 구성 요소 테이블, Milestone과의 차이 시험 포인트
+
+### ✅ 3-5. 계획.md — 일정 개발 프로세스 순서 + Milestone 추가
+- **계기:** Set A (Milestone List의 output 단계 → Define Activities)
+- **추가 내용:** Define Scope → Define Activities → Sequence → Estimate → Develop Schedule 전체 흐름, Milestone 정의, Define Scope와의 차이 시험 포인트
+
+### ✅ 1-3. EEF/OPA.md — 조직 구조 유형 추가
+- **계기:** Set A - Q23 (Matrix 조직에서 타 부서 팀원 미팅 참여시키는 방법)
+- **추가 내용:** Functional/Matrix/Projectized 조직 구조 비교표, Matrix 세분화(Weak/Balanced/Strong), PM 권한 구조, 시험 포인트
+
+### ✅ 3-5. 계획.md — Contingency Reserve 상세 보강
+- **계기:** Set A - Q19 (예비비 산정/사용 방식 중 틀린 것 고르기)
+- **추가 내용:** Contingency vs Management Reserve 비교표, 산정 방법(EMV 등), 틀린 사용 방식 정리
+
+### ✅ 3-3. 팀 성과 도메인.md — RAM 개념 추가
+- **계기:** Set A - Q18 (work package별 리소스 매핑 차트 → RACI = RAM)
+- **추가 내용:** RAM(Responsibility Assignment Matrix) 개념 및 RACI와의 관계 정리, 시험 포인트 추가
+
 ## 2026-04-14
 
 ### ✅ 3-5. 계획.md — CPM 시각화 대폭 보강
