@@ -9,6 +9,21 @@
                 {% endif %}
             </a>
         </div>
+        <div class="navbar-profile">
+            <img class="navbar-avatar" src="/img/avatar.png" alt="Dowon Kim" />
+            <div class="navbar-profile-text">
+                <span class="navbar-profile-name">Dowon Kim</span>
+                <span class="navbar-profile-bio">Project Manager · Logistics | Robotics</span>
+            </div>
+            <div class="navbar-profile-links">
+                <a href="https://linkedin.com/in/murung-dowon" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+                    <i data-lucide="linkedin"></i>
+                </a>
+                <a href="mailto:contact.murung@gmail.com" title="Email">
+                    <i data-lucide="mail"></i>
+                </a>
+            </div>
+        </div>
         {% if settings.dgEnableSearch === true%}
             {% include "components/searchButton.njk" %}
         {%endif%}
