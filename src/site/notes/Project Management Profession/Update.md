@@ -10,6 +10,21 @@
 
 ---
 
+## 2026-05-05
+
+### ✅ 3-6. 프로젝트 업무.md — Change Control 섹션 신설
+- **계기:** Set A - Q22 (범위 집중 지시 → Scope Management vs Change Control 차이)
+- **추가 내용 (5절 신설):**
+  - Integrated Change Control 프로세스 흐름 (CR → CCB → 승인/거부)
+  - CCB(Change Control Board) 개념 및 PM 단독 승인 불가 포인트
+  - Scope Management vs Change Control 비교표
+  - Gold Plating vs Scope Creep 비교표
+  - 시험 포인트 (Set A Q22 연계)
+
+### ✅ 3-6. 프로젝트 업무.md — 커뮤니케이션 채널 공식 수식 오류 수정
+- **계기:** LaTeX 수식이 깨져서 렌더링 안 됨
+- **수정 내용:** `n(n-1)/2` 일반 텍스트 표기로 통일, 10명 예시 추가
+
 ## 2026-04-15
 
 ### ✅ 3-5. 계획.md — Project Scope Statement 상세 추가
