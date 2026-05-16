@@ -69,3 +69,39 @@
 **B**. Variance analysis  
 **C**. What-If scenario analysis.  
 **D**. Schedule compression
+
+---
+26.05.16
+### PMP Practice Exams
+
+PDM vs ADM
+- **PDM이 정답인 경우 (거의 대부분):** "소프트웨어가 쓰는 방법", "가장 많이 쓰는 방법", "현대 PM 툴" 키워드 → 무조건 PDM
+- **PDM이 정답 아닌 경우 (드물게):** "Dummy Activity가 필요한 상황을 설명하라" 또는 "FS 관계만 표현하는 방법" 키워드 나오면 → AOA. 이 두 케이스만 예외임.
+
+### PMP Practice Exams
+
+#### You have just been given the responsibility to staff and oversee a new Scrum project. There are minimal resources, and you don’t have the budget to hire new people. One individual has been pre-assigned to the project and has asked to serve as the project’s Scrum Master. Although she has participated in Scrum projects previously, she has never had this role. What would be your best option in this situation?
+
+- Tell the team member that you need someone who is experienced in the role.
+- Ask the functional manager if they have anyone available who can serve as the scrum master.
+- Allow the team member the role but ask that she enroll in scrum master training right away.
+- Assign the team member a coach who has experience in being a scrum master.
+
+##### 해설
+> Coaching vs Training 차이
+
+
+### PMP Practice Exams
+You are managing a project in a highly cost-sensitive company. Therefore, you need to reduce the costs to the extent possible. Which one of the following categories of cost would you consider as the first option for cost reduction?
+
+- Variable and fixed costs
+- Indirect and variable costs
+- Indirect and direct costs
+- Direct and variable costs
+
+##### 해설
+> 비용의 다섯가지 분류들
+
+
+
+### PMP Practice

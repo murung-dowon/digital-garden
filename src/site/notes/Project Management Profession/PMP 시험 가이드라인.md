@@ -17,7 +17,7 @@
 ### [[Project Management Profession/2 - 12 Principles of Project Management/2. 12가지 프로젝트 관리 원칙 - 12 Principles of Project Management\|2. 12가지 프로젝트 관리 원칙 - 12 Principles of Project Management]]
 ### [[Project Management Profession/3 - 8 Project Performance Domains/3. 8가지 프로젝트 성과 도메인 - 8 Project Performance Domains\|3. 8가지 프로젝트 성과 도메인 - 8 Project Performance Domains]]
 ### [[0. Inbox/4. 테일러링 - Tailoring\|4. 테일러링 - Tailoring]]
-### [[0. Inbox/6. 시험 전략 - Examination Content Outline\|6. 시험 전략 - Examination Content Outline]]
+### [[Project Management Profession/6 - E.C.O/6. 시험 전략 - Examination Content Outline\|6. 시험 전략 - Examination Content Outline]]
 ### [[0. Inbox/5. 모델 기법 및 산출물 - Models Methods and Artifacts\|5. 모델 기법 및 산출물 - Models Methods and Artifacts]]
 
 
