@@ -57,6 +57,51 @@ S4. Low directive + Low supportive   → 베테랑 자율팀
 ### 변경 관리
 - `"approved"` 보이면 → 승인 단계 이미 끝 → **계획 문서 업데이트**
 
+---
+
+# 드래그앤드롭 대비 핵심 순서/프로세스 플로우
+
+### ① 리스크 관리 7단계
+```
+1. Plan Risk Management → 2. Identify Risks → 3. Qualitative Analysis
+→ 4. Quantitative Analysis → 5. Plan Responses → 6. Implement Responses → 7. Monitor Risks
+```
+
+### ② 변경 통제 프로세스
+```
+변경 요청 → 영향도 분석 → CCB 승인 → PM Plan 업데이트 → 커뮤니케이션
+```
+
+### ③ Tuckman 팀 개발 5단계
+```
+Forming(방향) → Storming(갈등) → Norming(지원) → Performing(위임) → Adjourning(마무리)
+```
+
+### ④ 갈등 해결 강도 순서 (약→강)
+```
+Withdraw → Smooth → Compromise → Force → Collaborate ✅ (PMP 권장)
+```
+
+### ⑤ Agile Sprint 사이클
+```
+Sprint Planning → Daily Standup → Sprint 실행 → Sprint Review → Sprint Retrospective
+```
+
+### ⑥ 조달 프로세스
+```
+Plan → Conduct (RFI→RFP→RFQ) → Control → Close
+```
+
+### ⑦ 이슈 에스컬레이션 순서
+```
+PM 직접 → 팀 내 → Functional Manager → Sponsor → 최고경영진
+```
+
+### ⑧ WBS → 일정 수립 순서
+```
+WBS → Activity List → 순서 배열 → 자원 산정 → 기간 산정 → 일정 개발 → 일정 통제
+```
+
 ### 품질 관리
 - `외부 감사자/컨설턴트 + 방법론 검토` → Control Quality ❌ → **Manage Quality**
 - `테스트/결함/검수` → Manage Quality ❌ → **Control Quality**
